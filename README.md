@@ -32,6 +32,10 @@ Some examples may reference definitions, libraries, or companion files used else
 
 Because the examples use the standard SysML v2 textual notation, they may also be usable with other SysML v2 implementations. Compatibility depends on the language version, library support, and implementation status of the tool. Minor changes may therefore be required outside CATIA 2026x.
 
+##Appendices
+
+The book ran ... a bit ... long at over 900 pages. So we decided to extract the exercises from each chapter and the appendices and make available on line. There are here as a PDF file.
+
 ## Reporting Problems
 
 If an example contains an error or does not import as expected:
